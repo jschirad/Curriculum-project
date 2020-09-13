@@ -26,8 +26,8 @@ a:hover {
 .top-img {
 	position: relative;
 	text-align: center;
-	top: 50px;
 	margin: auto;
+	top: 50px;
 }
 
 .presentation {
@@ -79,13 +79,27 @@ a:hover {
 }
 
 .sysImg {
-	width: 19%;
+	width: 22%;
 	float: left;
 	margin-right: 25px;
+	margin-top: 20px;
 }
 .experiencia {
 	position: relative;
-	top: 350px;
+	text-align: center;
+	top: 400px;
+}
+
+.Junior {
+	text-align: justify;
+	margin-right: 50px;
+	margin-left: 50px;
+	line-height: 2;
+}
+
+.education {
+	position: relative;
+	top: 400px;
 	text-align: center;
 }
 
