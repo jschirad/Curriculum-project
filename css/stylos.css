@@ -31,6 +31,9 @@ a:hover {
 }
 
 .presentation {
+	background-color: cornflowerblue;
+	height: 300px;
+	color: whitesmoke;
 	position: relative;
 	top: 150px;
 	text-align: center;
