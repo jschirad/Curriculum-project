@@ -58,3 +58,11 @@ h4 {
 	padding-bottom: 10px;
 
 }
+
+.icon {
+	color:	black
+}
+
+.icon:hover {
+	color: blanchedalmond;
+}
