@@ -10,6 +10,10 @@ h1, h3, h4 {
 
 /* TOP PAGE SECTION */
 
+.top-section {
+	padding-bottom: 120px;
+}
+
 .top-text {
 	background-color: transparent;
 	height: 300px;
