@@ -1,0 +1,112 @@
+body {
+	font-family: "Ubuntu", sans-serif;
+	text-align: center;
+	background-color: transparent;
+}
+
+h1, h3, h4 {
+	color: cornflowerblue;
+}
+
+/* TOP PAGE SECTION */
+
+.top-text {
+	background-color: transparent;
+	height: 300px;
+	position: relative;
+	padding-top: 150px
+}
+
+.top-img {
+	background-color: transparent;
+	position: relative;
+	bottom: 10px;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 40%;
+	right: 0;
+	height: auto;
+	width: 20%;
+	opacity: 0;
+	transition: .1s ease;
+}
+
+.top-img:hover .overlay {
+	opacity: 1;
+}
+
+/* ------------------------------------- */
+
+
+/* MIDDLE PAGE SECTION */
+
+.middle-section {
+	/* background-color: rgba(47, 113, 235, 0.952); */
+	background-color: transparent;
+}
+
+.introduce {
+	padding-top: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#hr1 {
+	width: 70%;
+	border: solid;
+	color: cornflowerblue;
+	margin-top: 80px;
+}
+
+.pricing-column {
+	padding: 3% 2%;
+}
+
+.cards {
+	background-color: transparent;
+	margin-top: 90px;
+	padding-bottom: 100px;
+}
+
+/* -------------------------------------- */
+
+/* CONTACT TO ME */
+
+.contactPage {
+	background-color: transparent;
+}
+
+#hr2 {
+	border: solid;
+	color: cornflowerblue;
+	margin-left: 40%;
+}
+.contactMe {
+	background-color: transparent;
+	text-align: right;
+	padding-top: 250px;
+	padding-bottom: 200px;
+	margin-right: 80px;
+}
+
+/* --------------------------------------- */
+
+
+/* FOOTER PAGE SECTION */
+
+.footer-link {
+	text-align: center;
+	background-color: primary;
+	padding-top: 30px;
+	padding-bottom: 10px;
+
+}
+
+a {
+	margin: 10px 20px;
+	text-decoration: none;
+}
