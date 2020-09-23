@@ -33,6 +33,10 @@ hr {
 	bottom: 10px;
 }
 
+.img-facu {
+	width: 20%;
+}
+
 /* SKILL SECTION */
 
 .skill {
@@ -59,5 +63,9 @@ hr {
 {
 	h1 {
 		color: black;
+	}
+
+	.img-facu {
+		width: 50%;
 	}
 }
