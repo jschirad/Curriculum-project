@@ -114,3 +114,24 @@ a {
 	margin: 10px 20px;
 	text-decoration: none;
 }
+
+
+/* MEDIA QUERY BREAKPOINTS */
+
+@media (max-width: 900px)
+{
+	h1 {
+		color: black;
+	}
+
+	.pricing-column {
+		padding: 10% 10%;
+	}
+
+	.contactMe {
+		text-align: right;
+		padding-top: 50px;
+	}
+
+}
+

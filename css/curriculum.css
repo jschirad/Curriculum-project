@@ -1,0 +1,54 @@
+body {
+	font-family: "Ubuntu", sans-serif;
+	background-color: transparent;
+	text-align: center;
+}
+
+h1 {
+	color: cornflowerblue;
+}
+
+hr {
+	border: solid;
+	color: cornflowerblue;
+	width: 60%;
+}
+
+/* TOP PAGE SECTION */
+
+.top-section {
+	padding-bottom: 120px;
+}
+
+.top-text {
+	background-color: transparent;
+	height: 300px;
+	position: relative;
+	padding-top: 150px
+}
+
+.top-img {
+	background-color: transparent;
+	position: relative;
+	bottom: 10px;
+}
+
+/* SKILL SECTION */
+
+.skill {
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* EXPIRENCE SECTION */
+
+.Junior {
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
