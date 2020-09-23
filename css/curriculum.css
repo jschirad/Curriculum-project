@@ -52,3 +52,12 @@ hr {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+/* MEDIA QUERY BREAKPOINT */
+
+@media (max-width: 900px)
+{
+	h1 {
+		color: black;
+	}
+}
