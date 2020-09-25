@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Ubuntu", sans-serif;
+}
+
+/* HEADER SECTION */
+
+header .container-fluid {
+	margin: 0;
+	padding: 0;
+	height: 350px;
+	background-image: url('https://www.clipperton.net/wp-content/uploads/2016/02/datacenter.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/* MAIN SECTION */
+
+#intro1 {
+	text-align: center;
+	color: cornflowerblue;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+main #services {
+	background-image: url('/images/bacground5.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#intro2 {
+	text-align: center;
+	color: whitesmoke;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.cardCloud {
+	background-color: white;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	box-shadow: 0 5px 5px black;
+}
+.img-gcp {
+	width: 20%;
+}
+
+
+/* FOOTER SECTION */
+
+footer .footer-link {
+	text-align: center;
+	background-color: primary;
+	padding-top: 30px;
+	padding-bottom: 10px;
+
+}
+
+footer a {
+	margin: 10px 20px;
+	text-decoration: none;
+}
