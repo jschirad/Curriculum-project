@@ -41,7 +41,7 @@ main #services {
 	background-color: white;
 	margin-bottom: 30px;
 	border-radius: 10px;
-	box-shadow: 0 5px 5px black;
+	box-shadow: 0 5px 5px  grey;
 }
 .img-gcp {
 	width: 20%;
