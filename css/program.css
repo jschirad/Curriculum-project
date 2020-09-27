@@ -10,3 +10,40 @@ header {
 	background-position: center;
 	background-size: cover;
 }
+
+main {
+	background-image: url('/images/backgroun7.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.cartas {
+	left: 37%;
+}
+
+.img-k8s {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+a {
+	padding-right: 20px;
+}
+
+@media (max-width: 900px)
+{
+	.img-terminal {
+		width: 100%;
+	}
+	.cartas {
+		left: 15%;
+	}
+}
