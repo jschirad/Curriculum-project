@@ -1,0 +1,12 @@
+body {
+	font-family: 'Ubuntu';
+	background-color: transparent;
+	text-align: center;
+}
+
+header {
+	background-image: url('/images/backgroun6.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
